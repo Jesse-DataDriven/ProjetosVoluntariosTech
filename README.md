@@ -21,4 +21,64 @@ Criar presença digital profissional para um microempreendedor autônomo, amplia
 - **Criação de Brand Persona com IA**, incluindo animação do avatar da marca.
 - **Hospedagem gratuita via Netlify**, garantindo custo zero ao empreendedor.
 
-## 🧩 Consult
+## 🧩 Consultoria Técnica
+- Estrutura HTML semântica e responsiva.
+- SEO básico para indexação orgânica.
+- Orientação sobre uso de QR Code em panfletos e cartões.
+- Treinamento para o empreendedor atualizar informações do site.
+
+---
+
+# 🙌 Projeto 2 — Escola Bíblica Paraíso  
+### Plataforma de estudo para comunidade local
+
+**Site publicado:** https://escolabiblicaparaiso2.netlify.app/
+
+## 🎯 Objetivo
+Criar um ambiente digital simples e acessível para apoiar o estudo bíblico da comunidade, com conteúdo multimídia e ferramentas de acompanhamento.
+
+## 🧠 Solução Desenvolvida
+- **Site para visitação e acompanhamento das aulas**.
+- **Design minimalista**, priorizando clareza e acessibilidade.
+- **Criação de Podcasts via IA**, transformando aulas em áudio para estudo assíncrono.
+- **Integração com Google Forms**, permitindo:
+  - Questionários
+  - Avaliações
+  - Registro de presença
+- Hospedagem gratuita via Netlify.
+
+## 🧩 Consultoria Técnica
+- Estrutura HTML modular e fácil de manter.
+- Orientação para líderes sobre atualização de conteúdo.
+- Organização de conteúdo para facilitar navegação por temas e semanas.
+
+---
+
+# 🌱 Impacto Social
+
+- Inclusão digital para microempreendedores sem recursos para contratar serviços profissionais.
+- Fortalecimento de iniciativas comunitárias por meio de tecnologia acessível.
+- Democratização do uso de IA para comunicação, ensino e presença digital.
+- Criação de modelos replicáveis para novos projetos voluntários.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+- **HTML5 / CSS3**
+- **JavaScript (básico)**
+- **IA para criação de conteúdo multimídia**
+- **Netlify (deploy gratuito)**
+- **Google Forms**
+- **Design minimalista orientado à experiência do usuário**
+
+---
+
+# 🤝 Propósito
+
+Este projeto nasce da convicção de que **tecnologia é ferramenta de transformação social**.  
+A missão é clara: levar digitalização a quem mais precisa, sem custo, sem barreiras e com impacto direto.
+
+Se quiser contribuir, sugerir melhorias ou replicar o modelo em sua comunidade, fique à vontade para abrir uma issue ou entrar em contato.
+
+---
