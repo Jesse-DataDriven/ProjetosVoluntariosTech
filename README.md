@@ -44,7 +44,7 @@ Criar presença digital profissional para um microempreendedor autônomo, amplia
 **Site publicado:** https://escolabiblicaparaiso2.netlify.app/
 
 ## 🎯 Objetivo
-Criar um ambiente digital simples e acessível para apoiar o estudo bíblico da comunidade, com conteúdo multimídia e ferramentas de acompanhamento.
+Criar um ambiente digital simples, acessível e acolhedor para apoiar o estudo bíblico da comunidade. O projeto reúne conteúdo multimídia e ferramentas de acompanhamento, gamefication que facilitam o aprendizado e fortalecem o engajamento. O propósito central é inspirar e motivar especialmente os jovens a desenvolver interesse pelo estudo, pela vida espiritual e por um caminho de equilíbrio e propósito.. 
 
 ## 🧠 Solução Desenvolvida
 - **Site para visitação e acompanhamento das aulas**.
